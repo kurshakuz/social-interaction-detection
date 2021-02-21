@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
     rospack1 = RosPack()
     pkg_path = rospack1.get_path('pedsim_gazebo_plugin')
-    default_actor_model_file = pkg_path + "/person_standing/model.sdf"
+    default_actor_model_file = pkg_path + "/models/person_walking/model.sdf"
 
     actor_model_file = rospy.get_param('~actor_model_file', default_actor_model_file)
     file_xml = open(actor_model_file)
