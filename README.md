@@ -1,5 +1,3 @@
-# swarm_company
-
 # Office world simulation
 
 Launch pedsim RVIZ simulation
