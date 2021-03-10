@@ -1,0 +1,32 @@
+waypoints:
+  waypoint_id_1: [-1.8, -0.5, 0.1]
+  waypoint_id_2: [-4.8, 1.7, 0.1]
+  waypoint_id_3: [-7.7, -1.7, 0.1]
+  waypoint_id_4: [-5.4, -4, 0.1]
+  waypoint_id_21: [10.9962520599, 5.8146276474, 0.1]
+  waypoint_id_22: [11.696641922, 1.72109615803, 0.1]
+  waypoint_id_23: [16.8265037537, 1.14833784103, 0.1]
+  waypoint_id_24: [17.1391983032, -1.93136656284, 0.1]
+  waypoint_id_25: [21.5160579681, -4.92493247986, 0.1]
+  waypoint_id_26: [23.5463256836, -1.85703039169, 0.1]
+  waypoint_id_27: [23.3186588287, -4.70258808136, 0.1]
+  waypoint_id_28: [25.2743225098, -5.85343790054, 0.1]
+  waypoint_id_29: [26.7467098236, -3.61366176605, 0.1]
+  waypoint_id_30: [21.9352588654, -0.778139948845, 0.1]
+  waypoint_id_31: [17.8882312775, 2.05619192123, 0.1]
+  waypoint_id_32: [10.9250411987, 4.11373758316, 0.1]
+agent_1:
+  n: 1
+  x: -2
+  y: -0.5
+  w: [waypoint_id_1, waypoint_id_2, waypoint_id_3, waypoint_id_4]
+agent_2:
+  n: 1
+  x: -2
+  y: -0.5
+  w: [waypoint_id_1, waypoint_id_2, waypoint_id_3, waypoint_id_4]
+agent_3:
+  n: 1
+  x: 10
+  y: 5
+  w: [waypoint_id_21, waypoint_id_22, waypoint_id_23, waypoint_id_24, waypoint_id_25, waypoint_id_26, waypoint_id_27, waypoint_id_28, waypoint_id_29, waypoint_id_30, waypoint_id_31, waypoint_id_32]
